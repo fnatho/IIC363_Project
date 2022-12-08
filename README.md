@@ -11,6 +11,11 @@ Integrantes.
   
 Objetivo: Implementar el modelo [CuratorNet](https://github.com/ialab-puc/CuratorNet) considerando diferentes versiones de embeddings de imágenes (Resnet50, MAE, Vit y CLIP) y evaluar si  los resultados son mejores que el Estado de arte.
 
-El siguiente repositorio está basado en el trabajo de [VisualRecSys-Tutorial-IUI2021](https://github.com/ialab-puc/VisualRecSys-Tutorial-IUI2021) (Parra et al, 2021).
+Este repositorio está basado en el trabajo [VisualRecSys-Tutorial-IUI2021](https://github.com/ialab-puc/VisualRecSys-Tutorial-IUI2021) (Parra et al, 2021).
 
-Hay tres colabnotebooks: Visual_Feature_Extraction, Train, Evaluate.
+El colab [data_analysis](https://github.com/fnatho/IIC363_Project/blob/main/data_analysis.ipynb) es para la exploración de datos.
+El colab [resnet50_image_embeddings](https://github.com/fnatho/IIC363_Project/blob/main/Resnet50_image_embeddings.ipynb) es para la extracción de embeddings de las imágenes utilizando resnet 50.
+El colab [main_training](https://github.com/fnatho/IIC363_Project/blob/main/main_training.ipynb) es para el entrenamiento del modelos.
+El colab [main_evaluation](https://github.com/fnatho/IIC363_Project/blob/main/main_training.ipynb) es para la evaluación de los modelos.
+
+
