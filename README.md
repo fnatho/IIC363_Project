@@ -2,9 +2,10 @@
 
 Repositorio de entrega final del proyecto del curso Sistemas Recomendadores 'IIC363'.                                                                
 Fecha:  09/12/2022
+
 Grupo: n°12
 
-Integrantes.
+Integrantes:
   - Felipe Concha
   - Francisco Madariaga
   - Federico Natho
