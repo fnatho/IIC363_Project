@@ -3,13 +3,14 @@
 Repositorio de entrega final del proyecto del curso Sistemas Recomendadores 'IIC363'.                                                                
 Fecha:  09/12/2022
 
-Grupo: n°12
+
 
 Integrantes:
   - Felipe Concha
   - Francisco Madariaga
   - Federico Natho
-  
+ 
+Grupo: n°12
   
 Objetivo: Implementar el modelo [CuratorNet](https://github.com/ialab-puc/CuratorNet) considerando diferentes versiones de embeddings de imágenes (Resnet50, MAE, Vit y CLIP) y evaluar si  los resultados son mejores que el Estado de arte.
 
