@@ -24,4 +24,4 @@ El colab [main_training](https://github.com/fnatho/IIC363_Project/blob/main/main
 
 El colab [main_evaluation](https://github.com/fnatho/IIC363_Project/blob/main/main_training.ipynb) es para la evaluación de los modelos.
 
-
+El colab [visual_embeddings](https://github.com/fnatho/IIC363_Project/blob/main/visual_embeddings.ipynb) es para obtener los embeddings visuales de Masked Autoencoder, Vision Transformer, y CLIP.
